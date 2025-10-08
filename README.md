@@ -1,2 +1,2 @@
 # STM32F1
-some projects based on STM32F1
+some projects based on STM32F103C8T6 and STM32F103RCT6
